@@ -1,8 +1,8 @@
 # Veeam RestAPI Simple Dashboard
 
-**This repository contains the PHP source code for this simple web dashboard.**
+**This repository contains the PHP source code for a Veeam Backup & Replication (VBR) dashboard.**
 
-This simple PHP website leverages the Veeam Backup & Replication (VBR) v11+ RestAPI to display a simple dashboard consisting of Veeam-managed servers, backup repositories, backup jobs and backups. 
+This PHP website leverages the VBR v11+ RestAPI to display a simple dashboard consisting of Veeam-managed servers, backup repositories, backup jobs and backups. 
 
 ## 📗 Documentation
 
@@ -14,13 +14,13 @@ This simple PHP website leverages the Veeam Backup & Replication (VBR) v11+ Rest
 
 **Usage:** Browse to the site created above. If operating properly an authentication prompt will be displayed -
 
-![Dashboard Auth](images/VBR-PHP-Dashboard-Auth.png)
+![Dashboard Auth](Images/VBR-PHP-Dashboard-Auth.png)
 
 Enter the target VBR server address and admin credentials for the VBR instance.
 
 If successfully authenticated a view similar to the one below will be displayed -
 
-![Dashboard](images/VBR-PHP-Dashboard-Main.png)
+![Dashboard](Images/VBR-PHP-Dashboard-Main.png)
 
 ## 🤝🏾 License
 
